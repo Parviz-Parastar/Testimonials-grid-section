@@ -35,7 +35,8 @@ Users should be able to:
 - My desingn desktop ![my-design-desktop](https://github.com/Parviz-Parastar/Testimonials-grid-section/blob/main/Screenshots/my-design-desktop.png?raw=true)
 
 ***
-- My desingn mobile ![my-design-mobile](https://github.com/Parviz-Parastar/Testimonials-grid-section/blob/main/Screenshots/my-design-mobile.png?raw=true)
+- My desingn mobile
+ ![my-design-mobile](https://github.com/Parviz-Parastar/Testimonials-grid-section/blob/main/Screenshots/my-design-mobile.png?raw=true)
 
 ***
 =======
