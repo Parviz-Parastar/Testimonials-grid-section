@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-<<<<<<< HEAD
+
 - My desingn desktop ![my-design-desktop](https://github.com/Parviz-Parastar/Testimonials-grid-section/blob/main/Screenshots/my-design-desktop.png?raw=true)
 
 ***
@@ -41,7 +41,6 @@ Users should be able to:
 =======
 ![](./screenshot.jpg)
 
->>>>>>> a242d528f5dc9df7c93ee3a8938ebb74fa9553ad
 
 
 ### Links
