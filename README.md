@@ -81,7 +81,4 @@ My Css3 tutorial is still going on.
 
 ## Acknowledgments
   Thanks to the [front end mentor](https://www.frontendmentor.io/home) site and the users who are active on this site👏
-<<<<<<< HEAD
-=======
 
->>>>>>> a242d528f5dc9df7c93ee3a8938ebb74fa9553ad
